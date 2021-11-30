@@ -1,4 +1,4 @@
-# 二刺螈图下载器
+# 二刺螈图下载器 BY ZZX
 ### download yellow pictures from chaoxing mooc img cdn
 # 开始使用
 下载releases包并全部解压，运行main.exe
